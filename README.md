@@ -1,4 +1,4 @@
-# Linear Equation Solver
+# Linear Equation Solver by Vishwa Pandian
 
 A simple Streamlit application to practice solving linear equations of the form `ax + b = c`.
 
